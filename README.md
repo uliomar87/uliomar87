@@ -6,11 +6,13 @@ Es un placer que me visites. 👋
 ⚡ Me gusta entudiar y apreder cosas nuevas todos los dias.
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
- Me encanta conectarme con diferentes personas, así que si quieres saludar,  <b>¡estaré feliz de conocerte más! </b> 😊</em>
-
 
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ 
+ 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+ Me encanta conectarme con diferentes personas, así que si quieres saludar,  <b>¡estaré feliz de conocerte más! </b> 😊</em>
 
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
