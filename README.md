@@ -6,4 +6,5 @@ Es un placer que me visites. 👋
 ⚡ Me gusta entudiar y apreder cosas nuevas todos los dias.
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+Me encanta conectarme con diferentes personas, así que si quieres saludar,  <b>¡estaré feliz de conocerte más! </b> 😊</em>
