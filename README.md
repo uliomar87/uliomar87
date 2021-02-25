@@ -10,3 +10,4 @@ Es un placer que me visites. 👋
 Me encanta conectarme con diferentes personas, así que si quieres saludar,  <b>¡estaré feliz de conocerte más! </b> 😊</em>
 
  
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
