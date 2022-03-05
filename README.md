@@ -2,7 +2,7 @@
 Es un placer que me visites. 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi:
-💻Soy estudiante de Ingeníeria en Sistemas Computacionales en el Instituto Tecnológico de Tijuana.
+💻Soy estudiante de Ingeníeria en Sistemas Computacionales en el Instituto Tecnológico de Tijuana.  
 ⚡ Me gusta estudiar y apreder cosas nuevas todos los dias.
 
 
