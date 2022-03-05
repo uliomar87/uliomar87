@@ -5,7 +5,6 @@ Es un placer que me visites. 👋
 💻Soy estudiante de Ingeníeria en Sistemas Computacionales en el Instituto Tecnológico de Tijuana.
 ⚡ Me gusta estudiar y apreder cosas nuevas todos los dias.
 
-<hr>
 
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
